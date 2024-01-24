@@ -153,6 +153,6 @@ li > span {
     max-width: 600px;
     border-radius: 15px;
     background-color: var(--white);
-    margin-block: 50px;
+    margin-block: 100px;
   }
 }
