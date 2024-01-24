@@ -76,7 +76,6 @@ li > span {
   color: var(--nutmeg);
   font-family: 'Young Serif';
   font-size: 32px;
-  font-weight: 600;
 }
 
 .ingredients-list {
@@ -142,7 +141,7 @@ li > span {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-size: cover;
+    max-height: 100%;
   }
 
   .omelette {
@@ -154,6 +153,7 @@ li > span {
     max-width: 700px;
     border-radius: 15px;
     background-color: var(--white);
-    margin-block: 150px;
+    margin-block: 125px;
+    height: 100%;
   }
 }
