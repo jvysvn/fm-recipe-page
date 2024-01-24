@@ -142,7 +142,7 @@ li > span {
     display: flex;
     justify-content: center;
     align-items: center;
-    max-height: 100vh;
+    max-height: 100%;
   }
 
   .omelette {
